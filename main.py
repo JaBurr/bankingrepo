@@ -1,3 +1,4 @@
+#This app is terminal-based; it only works in the output.
 import os
 import mysql.connector
 
